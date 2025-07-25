@@ -3,7 +3,7 @@
 Welcome to my interactive portfolio built using **HTML, CSS, and JavaScript**.  
 It showcases my skills and projects in **AI, Machine Learning, and Data Analytics**.
 
-🔗 **Live Link**: [Visit Portfolio]()
+🔗 **Live Link**: [Visit Portfolio](https://nikita-nigade.netlify.app/)
 
 ---
 
